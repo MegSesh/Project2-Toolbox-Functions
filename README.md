@@ -16,20 +16,20 @@ I viewed a couple of examples (one listed below under References), and I noticed
 
   - onLoad: setting up the scene, reading in the feather obj model, and setting up GUI variables
 
-  - onUpdate: this is where I work more on the animation. I have one section that moves the vertices on the curve (and the feathers along with it), thus creating the flapping motion. Another section in the function tries to emulate a wind force that blows the wings in different directions 
+  - onUpdate: this is where I work more on the animation. I have one section that moves the vertices on the curve (and the feathers along with it), thus creating the flapping motion. Another section in the function tries to emulate a wind force that blows the wings in different directions
 
 
 ## Results
 
-1. Control Panel: ![alt text](https://github.com/MegSesh/Project1-Noise/blob/proj1noise_branch1/images/controls.png "Image 1")
+1. Control Panel (these are the ideal values): ![alt text](https://github.com/MegSesh/Project2-Toolbox-Functions/blob/master/results/controls.png "Image 1")
 
 
-2. Jagged Flower:
-![alt text](https://github.com/MegSesh/Project1-Noise/blob/proj1noise_branch1/images/cleanjaggedflower_controls.png "Image 2")
+2. Wing 1:
+![alt text](https://github.com/MegSesh/Project2-Toolbox-Functions/blob/master/results/wing_down.png "Image 2")
 
 
-3. Ripples:
-![alt text](https://github.com/MegSesh/Project1-Noise/blob/proj1noise_branch1/images/ripple_controls.png "Image 3")
+3. Wing 2:
+![alt text](https://github.com/MegSesh/Project2-Toolbox-Functions/blob/master/results/wing_up.png "Image 3")
 
 
 
